@@ -52,7 +52,7 @@ describe('Test location routes', ()=>{
     request(app).get('/location')
    .end((err, res)=>{
     expect(res.status).to.equal(200)
-    expect(res.body.locations[0].name).to.equal("Gaba")
+    expect(res.body.locations[0].name).to.equal("Entebbe")
     done();
    })
   })
