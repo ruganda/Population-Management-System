@@ -20,7 +20,7 @@ Population management:
 **Application demo**
 
 * To interact with the application via postman
-     * https://rugandasmsAPIherokuapp.com/
+     * https://ruganda-population-api.herokuapp.com/
 
     then use the following endpoints to perform the specified tasks
     
